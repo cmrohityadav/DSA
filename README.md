@@ -1,4 +1,4 @@
-# lab-cpp
+#DSA
 
 Command to run hello.cpp file:
 
