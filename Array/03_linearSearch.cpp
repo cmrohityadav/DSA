@@ -5,7 +5,7 @@ using namespace std;
 cout<<"enter the key value"<<endl;
 int key;
 int ans=-1;
-cin>>key;
+cin>>key ;
 int arr[5]={1,2,3,4,5};
 for(int i=0;i<5;i++){
 if(arr[i]==key){
