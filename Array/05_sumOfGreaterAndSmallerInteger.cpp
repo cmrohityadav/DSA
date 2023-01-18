@@ -2,7 +2,7 @@
 in the array. Here 1< size <101
 For ex: arr[]={1,2,3,4,5} n=5
 Output: 6
-Explanation: The smallest number in the array is 1 and the greatest numbers in the array is 5, so the sum
+Explanation: The smallest  number in the array is 1 and the greatest numbers in the array is 5, so the sum
 will be 1+5=6*/
 #include<bits/stdc++.h>
 using namespace std;
