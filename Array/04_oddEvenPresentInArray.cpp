@@ -1,6 +1,6 @@
 /*Given an integer array(arr) and its size(n), print the count of odd and even integers present in the array.
 
-Cracking the Coding Interview in C++ - Foundation
+Cracking the Coding Interview  in C++ - Foundation
 
 For ex: arr[]={1,2,3,4,5} n=5
 Output: Odd Numbers = 3
